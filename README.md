@@ -7,6 +7,8 @@ An ATM application which runs on terminal to demonstrate open-close principle wi
 - Check balance
 - Exit
 
+### How to run
+- On your terminal (project root), run command: `python3 app.py`
 ### How to add new features
 - Clone the project on your own machine
 - Create a local branch
